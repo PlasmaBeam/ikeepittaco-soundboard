@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="labels">
+        <item>Ahh Yes</item>
+        <item>Allahu Akbar</item>
+    </string-array>
+
+    <integer-array name="ids">
+        <item>@raw/ah_yes</item>
+        <item>@raw/allahu_akbar</item>
+    </integer-array>
+</resources>
